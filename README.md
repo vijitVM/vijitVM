@@ -4,7 +4,8 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vijitVM.visitor-badge) [![GitHub followers](https://img.shields.io/github/followers/vijitVM.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/vijitVM?tab=followers)</br>
 <a href ="https://www.linkedin.com/in/vijit-mehrotra-018988130/"> 
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
-<a href ="vijitmehrotra95@gmail.com"> 
+
+<a href ="mailto:vijitmehrotra95@gmail.com"> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
