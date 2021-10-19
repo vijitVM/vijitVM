@@ -17,7 +17,7 @@ I have completed my Masters in Data Analytics from Uni Hildesheim , Germany. I  
 
 <h3> Languages</h3>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 <h3>IDE</h3>
 
@@ -31,15 +31,13 @@ I have completed my Masters in Data Analytics from Uni Hildesheim , Germany. I  
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<details>
-<summary>More Skills</summary>
+<h3> Other Technologies</h3>
 
-[](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-...
-</details>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<p float="left">
+  
+<img alt="Haddop" src="https://img.shields.io/badge/-Hadoop-fff?&amp;logo=Hadoop-Hadoop&amp;logoColor=white;height=25"> <img alt="BIGQUERY" src="https://img.shields.io/badge/-BigQuery-fff?&amp;logo=BigQuery-BigQuery&amp;logoColor=white;height=25"> <img alt="SPARK" src="https://img.shields.io/badge/-Spark-fff?&amp;logo=Spark-Spark&amp;logoColor=white;height=25"> <img alt="LINUX" src="https://img.shields.io/badge/-Linux-fff?&amp;logo=Linux-Linux&amp;logoColor=white;height=25"> <img alt="TABLEAU" src="https://img.shields.io/badge/-Tableau-fff?&amp;logo=Tableau-Tableau&amp;logoColor=white;height=25">
+</p>
 
 <h3>💻 My Personal WorkSpace</h3>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0c8f314dee10cdedb10a63f8558e9c760de378821671517d19a19fef29362f8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f77696e646f77732d2532333030373844362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465"><img src="https://img.shields.io/badge/windows-%230078D6.svg?&amp;style=for-the-badge&amp;logo=windows&amp;logoColor=white"></a>
