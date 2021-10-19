@@ -10,10 +10,11 @@
 
 <h2>About Me 🚀</h2>
 <ul>
-<li>I have completed my Masters in Data Analytics from Uni Hildesheim, Germany. I  Love to work on Data Science and Machine Learning Problems. I am passionate  about cloud computing and Data Engineering.</li>
-<li>🌱 I’m currently looking for Full time/ part-time / Free jobs that can help me get expreicne in the industry and boost my career in the field of Analytics, Data Scicne, Cloud Computing and Software Development.</li>
-<li>💞️ I’m looking to work / collborate with anyone in the industry to gain expreicne on how small or big the project maybe<br></li>
-<li>👀 II'm currently Learning the Google Data Analytics Professional Certificate and Preparing for the Amazon AWS practitioner Exam </li>
+<li>I have recently completed my Masters in Data Analytics from the university of Hildesheim, Germany 
+<li> I enjoy working on Data Science and Machine Learning problems. I am passionate  about Cloud Computing and Data Engineering</li>
+<li>🌱 I’m currently looking for Full time/ Part-time /Paid or Unpaid jobs that can help me gain industry experience in the industry and boost my career in the field of Analytics, Data Science, Cloud Computing and Software Development</li>
+<li>💞️ I’m looking to collaborate on small or big projects with experience professionals in the industry to gain experience <br></li>
+<li>👀 I'm currently enrolled in the Google Data Analytics Professional Certificate and also preparing for the Amazon AWS  Cloud Practitioner Exam </li>
   <li>📫 How to reach me : <a href="mailto:vijitmehrotra95@gmail.com">vijitmehrotra95@gmail.com</a></li>
 </ul>
 
