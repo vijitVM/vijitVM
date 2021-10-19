@@ -1,9 +1,9 @@
 👋 Hi, I am Vijit Mehrotra 
 <hr style="border:2px solid gray"> </hr>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vijitVM.visitor-badge) [![GitHub followers](https://img.shields.io/github/followers/vijitVM.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/vijitVM?tab=followers) ![LinkedIn](https://img.shields.io/badge/linkedin-%018988130.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-![vijitmehrotra95@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vijitVM.visitor-badge) [![GitHub followers](https://img.shields.io/github/followers/vijitVM.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/vijitVM?tab=followers) <a href ="https://www.linkedin.com/in/vijit-mehrotra-018988130/"> 
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 I have completed my Masters in Data Analytics from Uni Hildesheim , Germany. I  Love to work on Data Science and Machine Learning Problems. I am passionate  about cloud computing and Data Engineering. 
 - 🌱 I’m currently looking for Full time/ part-time / Free jobs that can help me get expreicne in the industry and boost my career in the field of analytics , Data Scicne , cloud Computing and Software Development.
