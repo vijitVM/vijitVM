@@ -1,6 +1,7 @@
 👋 Hi, I am Vijit Mehrotra 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vijitVM.visitor-badge) [![GitHub followers](https://img.shields.io/github/followers/vijitVM.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/vijitVM?tab=followers) [![GitHub contributors](https://img.shields.io/github/contributors/vijitVM/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vijitVM.visitor-badge) [![GitHub followers](https://img.shields.io/github/followers/vijitVM.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/vijitVM?tab=followers) [![GitHub contributors](https://badgen.net/github/contributors/vijitVM/Strapdown.js)](https://GitHub.com/vijitVM/Strapdown.js/graphs/contributors/)
+
 
 
 
