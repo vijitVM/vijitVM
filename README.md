@@ -1,22 +1,20 @@
-<h2><p align="center">👋 Hi, I am Vijit Mehrotra</p></h2></br>
+<h2><p align="center">👋 Hi, I am Vijit Mehrotra <a><img src ="https://visitor-badge.glitch.me/badge?page_id=vijitVM.visitor-badge", align ="right"></a>
+<a><img src ="https://img.shields.io/github/followers/vijitVM.svg?style=social&label=Follow&maxAge=2592000", align ="right"></a></p></h2></br>
+<p align ="center"><a><img src = "https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Github+Page+!!"></a></img></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Github+Page+!!)](https://git.io/typing-svg)
-
+<h2>Connect with me 🔗</h2>
 <a href ="https://www.linkedin.com/in/vijit-mehrotra-018988130/"> 
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
 <a href="mailto:vijitmehrotra95@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&amp;link=mailto:vijitmehrotra95@gmail.com"></a>
-<hr style="border:2px solid gray"> </hr>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vijitVM.visitor-badge) [![GitHub followers](https://img.shields.io/github/followers/vijitVM.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/vijitVM?tab=followers)</br>
-
-<p><h2>About Me 🚀</h2></p>
+<h2>About Me 🚀</h2>
 <ul>
 <li>I have completed my Masters in Data Analytics from Uni Hildesheim, Germany. I  Love to work on Data Science and Machine Learning Problems. I am passionate  about cloud computing and Data Engineering.</li>
 <li>🌱 I’m currently looking for Full time/ part-time / Free jobs that can help me get expreicne in the industry and boost my career in the field of Analytics, Data Scicne, Cloud Computing and Software Development.</li>
 <li>💞️ I’m looking to work / collborate with anyone in the industry to gain expreicne on how small or big the project maybe<br></li>
 <li>👀 II'm currently Learning the Google Data Analytics Professional Certificate and Preparing for the Amazon AWS practitioner Exam </li>
-<li>📫 How to reach me : vijitmehrotra95@gmail.com</li>
+  <li>📫 How to reach me : <a href="mailto:vijitmehrotra95@gmail.com">vijitmehrotra95@gmail.com</a></li>
 </ul>
 
 <p><h2>⚡ Tech Stack Overview</h2></p>
