@@ -25,7 +25,7 @@ I have completed my Masters in Data Analytics from Uni Hildesheim , Germany. I  
 
 <h3>Version Control</h3>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <h3>💻 My Personal WorkSpace</h3>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0c8f314dee10cdedb10a63f8558e9c760de378821671517d19a19fef29362f8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f77696e646f77732d2532333030373844362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465"><img src="https://img.shields.io/badge/windows-%230078D6.svg?&amp;style=for-the-badge&amp;logo=windows&amp;logoColor=white"></a>
