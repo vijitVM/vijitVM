@@ -1,4 +1,4 @@
-👋 Hi, I am Vijit Mehrotra \
+👋 Hi, I am Vijit Mehrotra 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
 
