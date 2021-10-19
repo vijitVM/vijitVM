@@ -1,4 +1,4 @@
-👋 Hi, I am Vijit Mehrotra
+👋 Hi, I am Vijit Mehrotra </br>
 <a href ="https://www.linkedin.com/in/vijit-mehrotra-018988130/"> 
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
 <a href="mailto:vijitmehrotra95@gmail.com">
