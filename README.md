@@ -29,6 +29,7 @@ I have completed my Masters in Data Analytics from Uni Hildesheim , Germany. I  
 
 <P> My Personal WorkSpace</p>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0c8f314dee10cdedb10a63f8558e9c760de378821671517d19a19fef29362f8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f77696e646f77732d2532333030373844362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465"><img src="https://img.shields.io/badge/windows-%230078D6.svg?&amp;style=for-the-badge&amp;logo=windows&amp;logoColor=white"></a>
+<img src="https://camo.githubusercontent.com/6a5f626f69b5002dbfe2d908a1674eb7f0bb5439167595eb3eef4c1d69177321/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e74656c2d636f72652532306935253230313074682d2532333030373143352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/intel-core%20i7%208th-%230071C5.svg?&amp;style=for-the-badge&amp;logo=intel&amp;logoColor=white" style=">
 
 <!---
 vijitVM/vijitVM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
