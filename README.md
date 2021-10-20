@@ -29,15 +29,17 @@
 
 <h3>Version Control</h3>
 
+<a><img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vijitVM&theme=blue-green"></a>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=max-height:100%) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=max-height:100%)
 
 <h3>ML/DL</h3>
 <p align ="right"></p>
 
-<a><img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vijitVM&theme=blue-green"></a> ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&style=max-height:100%) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&style=max-height:100%) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&style=max-height:100%) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&style=max-height:100%) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&style=max-height:100%)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&style=max-height:100%) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&style=max-height:100%) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&style=max-height:100%) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&style=max-height:100%) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&style=max-height:100%)
 
 <h3> Other Technologies</h3>
 
+<a><img align = "right" src = "https://github-readme-stats.vercel.app/api?username=vijitVM&show_icons=true"></a>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=max-height:100%) <img alt="Haddop" src="https://img.shields.io/badge/-Hadoop-fff?&amp;logo=Hadoop-Hadoop&amp;logoColor=white"> <img alt="BIGQUERY" src="https://img.shields.io/badge/-BigQuery-fff?&amp;logo=BigQuery-BigQuery&amp;logoColor=white;height=25"> <img alt="SPARK" src="https://img.shields.io/badge/-Spark-fff?&amp;logo=Spark-Spark&amp;logoColor=white;height=25"> <img alt="LINUX" src="https://img.shields.io/badge/-Linux-fff?&amp;logo=Linux-Linux&amp;logoColor=white;height=25"> <img alt="TABLEAU" src="https://img.shields.io/badge/-Tableau-fff?&amp;logo=Tableau-Tableau&amp;logoColor=white;height=25">
 </p>
 
