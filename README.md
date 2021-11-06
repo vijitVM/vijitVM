@@ -13,7 +13,7 @@
 <li>🎓 I have recently completed my Masters in Data Analytics from the University of Hildesheim, Germany 
 <li>😀 I enjoy working on Data Science and Machine Learning problems. I am passionate  about Cloud Computing and Data Engineering</li>
 <li>🌱 I’m currently looking for Full time/ Part-time /Paid or Unpaid jobs that can help me gain industry experience and boost my career in the field of Analytics, Data Science, Cloud Computing and Software Development</li>
-<li>💞️ I’m looking to collaborate on small or big projects with experienced professionals in the industry to gian work experience</li>
+<li>💞️ I’m looking to collaborate on small or big projects with experienced professionals in the industry to gainn work experience</li>
 <li>👀 I'm currently enrolled in the Google Data Analytics Professional Certificate and also preparing for the Amazon AWS  Cloud Practitioner Exam </li>
   <li>📫 How to reach me : <a href="mailto:vijitmehrotra95@gmail.com">vijitmehrotra95@gmail.com</a></li>
 </ul>
