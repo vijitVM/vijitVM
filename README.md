@@ -13,7 +13,7 @@
 <li> 💼 I am currently employed as a Business Consultant at Convergytics Solutions Pvt. Ltd </li>
 <li> 🎓 I am an AWS Certified Cloud Practitioner and a Google Certified Data Analyst with a Masters in Data Analytics from the University of Hildesheim, Germany</li>
 <li> 😀 I enjoy working on Data Science and Machine Learning problems. I am passionate  about Cloud Computing and Data Engineering</li>
-<li> 👨‍💻 I am proficient in SQL, Git , Github and ML</li>
+<li> 👨‍💻 I am proficient in SQL, Git , Github abd ML(Python)</li>
 <li> 📫 How to reach me : <a href="mailto:vijitmehrotra95@gmail.com">vijitmehrotra95@gmail.com</a></li>
 </ul>
 
