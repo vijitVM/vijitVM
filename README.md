@@ -38,9 +38,11 @@
 
 <h3> Other Technologies</h3>
 
-<a><img align = "right" src = "https://github-readme-stats.vercel.app/api?username=vijitVM&show_icons=true"></a>
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=max-height:100%) <img alt="Haddop" src="https://img.shields.io/badge/-Hadoop-fff?&amp;logo=Hadoop-Hadoop&amp;logoColor=white"> <img alt="BIGQUERY" src="https://img.shields.io/badge/-BigQuery-fff?&amp;logo=BigQuery-BigQuery&amp;logoColor=white;height=25"> <img alt="SPARK" src="https://img.shields.io/badge/-Spark-fff?&amp;logo=Spark-Spark&amp;logoColor=white;height=25"> <img alt="LINUX" src="https://img.shields.io/badge/-Linux-fff?&amp;logo=Linux-Linux&amp;logoColor=white;height=25"> <img alt="TABLEAU" src="https://img.shields.io/badge/-Tableau-fff?&amp;logo=Tableau-Tableau&amp;logoColor=white;height=25">
 </p>
+
+<a><img align = "right" src = "https://github-readme-stats.vercel.app/api?username=vijitVM&show_icons=true"></a>
 
 <h3>💻 My Personal WorkSpace</h3>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0c8f314dee10cdedb10a63f8558e9c760de378821671517d19a19fef29362f8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f77696e646f77732d2532333030373844362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465"><img src="https://img.shields.io/badge/windows-%230078D6.svg?&amp;style=for-the-badge&amp;logo=windows&amp;logoColor=white&style=max-height:100%"></a>
