@@ -10,11 +10,11 @@
 
 <h2>About Me 🚀</h2>
 <ul>
-<li>🎓 I am an AWS Certified Cloud Practitioner and a Google Certified Data Analyst with a Masters in Data Analytics from the University of Hildesheim, Germany</li>
-<li>😀 I enjoy working on Data Science and Machine Learning problems. I am passionate  about Cloud Computing and Data Engineering</li>
-<li>🌱 I’m currently looking for Full time/ Part-time /Paid or Unpaid jobs that can help me gain industry experience and boost my career in the field of Analytics, Data Science, Cloud Computing and Software Development</li>
-<li>💞️ I’m looking to collaborate on small or big projects with experienced professionals in the industry to gain work experience</li>
-  <li>📫 How to reach me : <a href="mailto:vijitmehrotra95@gmail.com">vijitmehrotra95@gmail.com</a></li>
+<li> 💼 I am currently employed as a Business Consultant at Convergytics Solutions Pvt. Ltd </li>
+<li> 🎓 I am an AWS Certified Cloud Practitioner and a Google Certified Data Analyst with a Masters in Data Analytics from the University of Hildesheim, Germany</li>
+<li> 😀 I enjoy working on Data Science and Machine Learning problems. I am passionate  about Cloud Computing and Data Engineering</li>
+<li> 👨‍💻 I am proficient in SQL, Git , Github and ML</li>
+<li> 📫 How to reach me : <a href="mailto:vijitmehrotra95@gmail.com">vijitmehrotra95@gmail.com</a></li>
 </ul>
 
 <p><h2>⚡ Tech Stack Overview</h2></p>
