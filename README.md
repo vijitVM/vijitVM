@@ -12,7 +12,7 @@
 <ul>
 <li> 💼 I am currently employed as a Consultant - Data Analyst / Data Engineer at Quation Solutions Pvt. Ltd </li>
 <li> 🎓 I am an AWS Certified Cloud Practitioner and a Google Certified Data Analyst with a Masters in Data Analytics from the University of Hildesheim, Germany</li>
-<li> 😀 I enjoy working on Data Science and Machine Learning problems. I am passionate about Cloud Computing and Data Engineering</li>
+<li> 😀 I enjoy working on Data Science and Machine Learning problems. I am passionate about Cloud Computing and Data Engineering and the current GenAI trends</li>
 <li> 👨‍💻 I am proficient in SQL, Git , Github and AI/ML(Python)</li>
 <li> 📫 How to reach me : <a href="mailto:vijitmehrotra95@gmail.com">vijitmehrotra95@gmail.com</a></li>
 </ul>
