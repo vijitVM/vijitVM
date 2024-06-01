@@ -10,10 +10,10 @@
 
 <h2>About Me 🚀</h2>
 <ul>
-<li> 💼 I am currently employed as a Consultant in Pre-Sales, specializing in Data Analysis and Engineering at Quation Solutions Pvt. Ltd. </li>
+<li> 💼 I am a currently working as a Data Science Consultant specializing in Generative AI at Quation Solutions Pvt Limited. Previously, I worked there as a Data Analyst/Data Engineer Consultant. </li>
 <li> 🎓 I am an AWS Certified Cloud Practitioner and a Google Certified Data Analyst with a Masters in Data Analytics from the University of Hildesheim, Germany</li>
 <li> 😀 I enjoy working on Data Science and Machine Learning problems. I am passionate about Cloud Computing and Data Engineering and the current GenAI trends</li>
-<li> 👨‍💻 I am proficient in SQL, Excel, PySpark, Git, Github and AI/ML(Python)</li>
+<li> 👨‍💻 I am proficient in SQL, Excel, PySpark, Git, Github, AI/ML(Python) and Generative AI</li>
 <li> 📫 How to reach me : <a href="mailto:vijitmehrotra95@gmail.com">vijitmehrotra95@gmail.com</a></li>
 </ul>
 
