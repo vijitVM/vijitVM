@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I'm Vijit Mehrotra</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Science+Consultant+%7C+3%2B+Years+Experience+%7C+AI+Enthusiast+%7C+Lifelong+Learner&width=900&height=25">
 </p>
 
 ---
@@ -10,6 +10,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vijit-mehrotra-018988130/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:vijitmehrotra95@gmail.com)
+
+---
 
 ### 🚀 About Me
 
@@ -82,14 +84,25 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Analytics
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vijitVM&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijitVM&layout=compact&theme=radical" alt="Top Languages">
-</p>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijitVM&theme=radical" alt="GitHub Streak">
+</div>
 
+---
+
+### 🎸 Hobbies & Interests
+
+- 🎵 **Music**: Enjoy Listeing to different genre of music.
+- 📚 **Reading**: Passionate about reading books on technology and innovation.
+- 🌍 **Travel**: Love traveling and experiencing new cultures and cuisines.
+- 🍽️ **Foodie**: Enjoy visiting different restaurants and trying new cuisines.
+- 📷 **Photography**: Love capturing moments and exploring photography techniques.
 ---
 
 <!--
