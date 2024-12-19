@@ -51,7 +51,9 @@
   [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
   [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
   [![NLTK](https://img.shields.io/badge/NLTK-0277BD?style=for-the-badge&logo=Python&logoColor=white)](https://www.nltk.org/)
+  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=Hugging%20Face&logoColor=white)](https://huggingface.co/)
 
+  
 - **Databases**:
 
   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
@@ -90,8 +92,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vijitVM&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijitVM&layout=compact&theme=radical" alt="Top Languages">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijitVM&theme=radical" alt="GitHub Streak">
 </div>
 
 ---
