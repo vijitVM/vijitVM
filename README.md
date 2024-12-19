@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Vijit Mehrotra</h2>
+<h2 style="margin: 0;">👋 Hi, I'm Vijit Mehrotra</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Science+Consultant+%7C+3%2B+Years+Experience+%7C+AI+Enthusiast+%7C+Lifelong+Learner&width=1000&height=25">
