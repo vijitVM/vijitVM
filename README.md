@@ -72,6 +72,7 @@
   [![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white)](https://cloud.google.com/bigquery)
   [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)](https://www.linux.org/)
   [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
+  [![LangFlow](https://img.shields.io/badge/LangFlow-FFD700?style=for-the-badge)](https://www.langflow.org//)
 
 - **Version Control**:
 
