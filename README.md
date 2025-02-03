@@ -46,6 +46,7 @@
   [![Transformers](https://img.shields.io/badge/Transformers-FFDA57?style=for-the-badge&logo=HuggingFace&logoColor=black)](https://huggingface.co/docs/transformers/index)
   [![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=OpenAI&logoColor=white)](https://openai.com/api/)
   [![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=&logoColor=white)](https://python.langchain.com/en/latest/)
+  [![AutoGen](https://img.shields.io/badge/AutoGen-000000?style=for-the-badge)](https://github.com/microsoft/autogen)
   [![LLAMA](https://img.shields.io/badge/LLAMA-CC0000?style=for-the-badge&logo=&logoColor=white)](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
   [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)](https://numpy.org/)
   [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
