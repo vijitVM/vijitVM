@@ -20,6 +20,13 @@
   </a>
 </p>
 
+<p align="center">
+  💼 Check out my portfolio website!<br><br>
+  <a href="https://vijit-mehrotra-portfolio.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me  
