@@ -1,7 +1,7 @@
 <h2 style="margin: 0;">👋 Hi, I'm Vijit Mehrotra</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Science+Consultant+%7C+3%2B+Years+Of+Experience+%7C+AI+Enthusiast+%7C+Lifelong+Learner&width=1000&height=80&duration=24000&font=Fira+Code">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Senior+Data+Science+Consultant+%7C+3%2B+Years+Of+Experience+%7C+AI+Enthusiast+%7C+Lifelong+Learner&width=1000&height=80&duration=24000&font=Fira+Code">
    <img src="https://komarev.com/ghpvc/?username=vijitVM&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views">
 </p>
   
@@ -30,7 +30,7 @@
 ---
 
 ## 🚀 About Me  
-💼 **Data Science Consultant** specializing in **Generative AI**  and **Analytics** at **Quation Solutions Pvt Limited**.  
+💼 **Senior Data Science Consultant** specializing in **Generative AI**  and **Analytics** at **Quation Solutions Pvt Limited**.  
 🎓 **AWS & Google Certified Data Analyst** | **Master’s in Data Analytics** from **University of Hildesheim, Germany**.  
 ⚡ Passionate about **Data Science, AI, LLMOps, and Cloud Computing**.  
 📫 Reach me at **[vijitmehrotra95@gmail.com](mailto:vijitmehrotra95@gmail.com)**.  
