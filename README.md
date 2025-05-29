@@ -30,7 +30,7 @@
 ---
 
 ## 🚀 About Me  
-💼 **Senior Data Science Consultant** specializing in **Generative AI**  and **Analytics** at **Quation Solutions Pvt Limited**.  
+💼 **Senior Data Science Consultant** specializing in **AI**  and **Analytics** at **Quation Solutions Pvt Limited**.  
 🎓 **AWS & Google Certified Data Analyst** | **Master’s in Data Analytics** from **University of Hildesheim, Germany**.  
 ⚡ Passionate about **Data Science, AI, LLMOps, and Cloud Computing**.  
 📫 Reach me at **[vijitmehrotra95@gmail.com](mailto:vijitmehrotra95@gmail.com)**.  
