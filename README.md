@@ -91,8 +91,9 @@
 ## 📈 GitHub Analytics  
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vijitVM&layout=compact&theme=radical" width="43%">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijitVM&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vijitVM&layout=compact&theme=radical&cache_bust=1" width="43%">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijitVM&show_icons=true&theme=radical&cache_bust=1" alt="GitHub Stats" width="48%">
+
 </p>
 
 ---
