@@ -1,7 +1,7 @@
 <h2 style="margin: 0;">👋 Hi, I'm Vijit Mehrotra</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Senior+Data+Science+Consultant+%7C+3%2B+Years+Of+Experience+%7C+AI+Enthusiast+%7C+Lifelong+Learner&width=1200&height=80&duration=24000&font=Fira+Code">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Senior+Data+Science+Consultant+%7C+4+Years+Of+Experience+%7C+AI+Enthusiast+%7C+Lifelong+Learner&width=1200&height=80&duration=24000&font=Fira+Code">
    <img src="https://komarev.com/ghpvc/?username=vijitVM&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views">
 </p>
   
