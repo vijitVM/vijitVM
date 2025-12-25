@@ -220,20 +220,6 @@
 </details>
 </div>
 
----
-
-## 📈 GitHub Analytics: Performance Snapshot
-
-<div>
-  <p>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=vijitVM&theme=default&hide_border=true&ring=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
-    </a>
-  </p>
-</div>
-
----
-
 ### 🎸 Hobbies & Interests
 
 <table>
