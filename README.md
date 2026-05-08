@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=👋%20Hi,%20I'm%20Vijit%20Mehrotra&fontSize=30&fontColor=222222&animation=shine&rotation=5&fontAlignY=35&desc=Senior%20%20Data%20Science%20Consultant%20%7C%20GenAI%20LLM%20Systems&descAlignY=60&descSize=26" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=👋%20Hi,%20I'm%20Vijit%20Mehrotra&fontSize=30&fontColor=222222&animation=shine&rotation=5&fontAlignY=35&desc=Senior%20%20Consultant%20%7C%20GenAI%20LLM%20Systems&descAlignY=60&descSize=26" alt="Header" width="100%"/>
 </div>
 <br>
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%23FF8000&lines=Building+LLM+Systems+(RAG,+Agents)%0A4%2B+Years+of+Experience+%7C+AI+%26+Data+Science&width=1050&height=50&duration=15000&font=Fira+Code&size=22" alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%23FF8000&lines=Building+LLM+Systems+(RAG,+Agents)%0A5+Years+of+Experience+%7C+AI+%26+Data+Science&width=1050&height=50&duration=15000&font=Fira+Code&size=22" alt="Typing SVG">
     </a>
 </div>
 
@@ -36,7 +36,7 @@
 
 | Area | Detail |
 | :--- | :--- |
-| **💼 Role** | **Senior Data Science Consultant** at **Quation Solutions Pvt Limited**. |
+| **💼 Role** | **Senior Consultant - GENAI / LLM Engineer** at **Quation Solutions Pvt Limited**. |
 | **🎓 Education** | **Master’s in Data Analytics** from **University of Hildesheim, Germany**. |
 | **🏅 Certification** | **AWS & Google Certified Data Analyst**. |
 | **⚡ Focus** | Passionate about **Data Science, AI, LLMOps, and Cloud Computing**. |
