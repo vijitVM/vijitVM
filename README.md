@@ -4,7 +4,7 @@
 <br>
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%23FF8000&lines=Building+LLM+Systems+(RAG,+Agents)%0A5+Years+of+Experience+%7C+AI+%26+Data+Science&width=1050&height=50&duration=15000&font=Fira+Code&size=22" alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%23FF8000&lines=Architecting+Production-Grade+Agentic+AI+Systems%0ABuilding+Scalable+Enterprise+RAG+Architectures%0ASenior+Consultant+%7C+Solving+Ambiguous+Technical+Challenges&width=1050&height=50&duration=15000&font=Fira+Code&size=22" alt="Typing SVG">
     </a>
 </div>
 
@@ -33,13 +33,14 @@
 ---
 
 ## 🚀 About Me: Driving AI and Analytics
+I bridge the gap between ambiguous enterprise requirements and robust, production-grade AI architectures. My focus is on **shipping reliable, agentic systems** that deliver measurable business outcomes.
 
 | Area | Detail |
 | :--- | :--- |
-| **💼 Role** | **Senior Consultant - GENAI / LLM Engineer** at **Quation Solutions Pvt Limited**. |
+| **💼 Role** | **Senior Consultant - GenAI / AI Systems Engineer** at **Quation Solutions**. |
+| **🧠 Expertise** | **Agentic Workflows, Enterprise RAG, LLMOps, & AI Orchestration.** |
 | **🎓 Education** | **Master’s in Data Analytics** from **University of Hildesheim, Germany**. |
-| **🏅 Certification** | **AWS & Google Certified Data Analyst**. |
-| **⚡ Focus** | Passionate about **Data Science, AI, LLMOps, and Cloud Computing**. |
+| **🚀 Recent Impact** | Architected platforms scaling to 15K+ records/day and reducing processing time by 60%+. |
 
 ---
 
@@ -56,25 +57,25 @@
 
   <!-- LLM + MLOPS -->
   <table>
-    <tr>
-      <th>🚀 LLM & GenAI</th>
-      <th>⚙️ MLOps & LLMOps</th>
-    </tr>
+    <tr><th>🚀 LLM & GenAI</th><th>⚙️ MLOps & LLMOps</th></tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
-        <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge">
+        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
+        <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white">
+        <img src="https://img.shields.io/badge/CrewAI-3777FF?style=for-the-badge&logo=CrewAI&logoColor=white">
+        <img src="https://img.shields.io/badge/LangGraph-1F4F99?style=for-the-badge&logo=LangChain&logoColor=white">
+        <img src="https://img.shields.io/badge/DSPy-2A2A2A?style=for-the-badge">
         <img src="https://img.shields.io/badge/AutoGen-000000?style=for-the-badge">
-        <img src="https://img.shields.io/badge/DSPy-000000?style=for-the-badge">
         <img src="https://img.shields.io/badge/LLaMA-CC0000?style=for-the-badge">
         <img src="https://img.shields.io/badge/Ollama-009485?style=for-the-badge">
-        <img src="https://img.shields.io/badge/Hugging%20Face-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black">
+        <img src="https://img.shields.io/badge/Hugging_Face-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black">
       </td>
       <td>
         <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
         <img src="https://img.shields.io/badge/LangSmith-663399?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Langfuse-5B31E3?style=for-the-badge&logo=Langfuse&logoColor=white">
       </td>
     </tr>
   </table>
@@ -83,14 +84,11 @@
 
   <!-- CORE ML + DATA -->
   <table>
-    <tr>
-      <th>🛠 Core ML</th>
-      <th>🗄 Data Layer</th>
-    </tr>
+    <tr><th>🛠 Core ML</th><th>🗄 Data Layer</th></tr>
     <tr>
       <td>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
       </td>
       <td>
@@ -107,14 +105,11 @@
 
   <!-- INFRA + LANGUAGES -->
   <table>
-    <tr>
-      <th>🏗 Infrastructure</th>
-      <th>🛠 Languages</th>
-    </tr>
+    <tr><th>🏗 Infrastructure</th><th>🛠 Languages</th></tr>
     <tr>
       <td>
         <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
-        <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white">
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white">
         <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=Microsoft-Azure&logoColor=white">
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
         <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white">
@@ -131,15 +126,12 @@
 
   <!-- TOOLS + COLLAB -->
   <table>
-    <tr>
-      <th>☁️ Tools</th>
-      <th>📌 Collaboration</th>
-    </tr>
+    <tr><th>☁️ Tools</th><th>📌 Collaboration</th></tr>
     <tr>
       <td>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
       </td>
       <td>
@@ -148,7 +140,6 @@
       </td>
     </tr>
   </table>
-
 </details>
 </div>
 
