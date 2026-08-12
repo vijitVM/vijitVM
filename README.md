@@ -37,7 +37,7 @@ I bridge the gap between ambiguous enterprise requirements and robust, productio
 
 | Area | Detail |
 | :--- | :--- |
-| **💼 Role** | **Seinor Machine Learning Engineer** / **Ex Senior Consultant - GenAI / AI Systems Engineer** at **Quation Solutions**. |
+| **💼 Role** | **Currently Seinor Machine Learning Engineer** / **Ex Senior Consultant - GenAI / AI Systems Engineer** at **Quation Solutions**. |
 | **🧠 Expertise** | **Agentic Workflows, Enterprise RAG, LLMOps, & AI Orchestration.** |
 | **🎓 Education** | **Master’s in Data Analytics** from **University of Hildesheim, Germany**. |
 | **🚀 Recent Impact** | Architected platforms scaling to 15K+ records/day and reducing processing time by 60%+. |
