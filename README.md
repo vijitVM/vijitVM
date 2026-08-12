@@ -4,7 +4,7 @@
 <br>
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%23FF8000&lines=Architecting+Production-Grade+Agentic+AI+Systems%0ABuilding+Scalable+Enterprise+RAG+Architectures%0ASenior+Consultant+%7C+Solving+Ambiguous+Technical+Challenges&width=1050&height=50&duration=15000&font=Fira+Code&size=22" alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%23FF8000&lines=Architecting+Production-Grade+Agentic+AI+Systems%0ABuilding+Scalable+Enterprise+RAG+Architectures%0ASenior+Consultant+%7C+Solving+Ambiguous+Technical+Challenges&width=1250&height=50&duration=15000&font=Fira+Code&size=22" alt="Typing SVG">
     </a>
 </div>
 
